@@ -1,6 +1,8 @@
 
 # Melbourne Housing Data
 
+[![DOI](https://zenodo.org/badge/172044968.svg)](https://zenodo.org/badge/latestdoi/172044968)
+
 This data was taken from the [kaggle
 site](https://www.kaggle.com/anthonypino/melbourne-housing-market/version/21),
 and was kindly cleaned by Tony Pino. The data is released under the
@@ -58,9 +60,9 @@ Metadata for the site was created using
 | housing.csv | council\_area   | Governing council for the area                                                                                                                                                                                                                                                                                                         | text     |
 | housing.csv | latitude        | Latitude                                                                                                                                                                                                                                                                                                                               | number   |
 | housing.csv | longitude       | Longitude                                                                                                                                                                                                                                                                                                                              | number   |
-| housing.csv | region\_name    | General Region (West, North West, North, North east …etc)                                                                                                                                                                                                                                                                              | NA       |
-| housing.csv | property\_count | Number of properties that exist in the suburb.                                                                                                                                                                                                                                                                                         | NA       |
-| housing.csv | yr\_qtr         | Quarter of the year (Jan - March = Q1, etc)                                                                                                                                                                                                                                                                                            | NA       |
+| housing.csv | region\_name    | General Region (West, North West, North, North east …etc)                                                                                                                                                                                                                                                                              | text     |
+| housing.csv | property\_count | Number of properties that exist in the suburb.                                                                                                                                                                                                                                                                                         | number   |
+| housing.csv | yr\_qtr         | Quarter of the year (Jan - March = Q1, etc)                                                                                                                                                                                                                                                                                            | text     |
 
 # Date accessed
 
