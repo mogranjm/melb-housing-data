@@ -5,9 +5,11 @@
 
 This data was taken from the [kaggle
 site](https://www.kaggle.com/anthonypino/melbourne-housing-market/version/21),
-and was kindly cleaned by Tony Pino. The data is released under the
-license [CC
-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+and was kindly cleaned by Tony Pino.
+
+The data was released under the license [CC
+BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), and
+is redistributed here.
 
 The below contains a slightly modified description of the data from the
 website
